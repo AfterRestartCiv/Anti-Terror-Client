@@ -1,2 +1,8 @@
 # ATclient
-One stop shop for all your civ-mod needs.
+
+Anti-Terror Client. Your right hand man in the World of Civ.
+
+---
+
+
+![:D](/sword1.png)
