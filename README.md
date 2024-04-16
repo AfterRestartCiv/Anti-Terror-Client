@@ -1,7 +1,6 @@
 # Anti-Terror Client
 
-Anti-Terror Client. Your right hand man in the World of Civ.
-
+Anti-Terror Client. Protect yourself.
 ---
 
 
